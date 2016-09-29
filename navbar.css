@@ -1,0 +1,19 @@
+#navbar {
+    text-align:center;
+}
+
+#navbar li {
+    display: inline-block;
+    Border:2px solid black;
+    padding:2px;
+    border-radius: 25%
+}
+
+#navbar a {
+    color: green;
+}
+
+.centered-stuff {
+    text-align: center;
+    
+}
