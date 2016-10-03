@@ -1,4 +1,54 @@
-.container > *{
-    display: inline-block;
-    vertical-align: top;
-}
+    .container > *{
+        display: inline-block;
+        vertical-align: top;
+    }
+
+    .smaller-image {
+        width:470px;
+        border-radius:3%;
+    }
+    
+    .green-text {
+        color: green;
+    }
+    
+    .white-text {
+        color: white;
+        font-weight: bold;
+    }
+    
+    .maintitle {
+        font-family: 'Playball', cursive;
+    }
+    
+        
+    .border {
+        line-height: 100%;
+        /*width: 25%;*/
+        /*height: 50%;*/
+    }
+        
+    .font-size {
+        font-size: 25px;
+        font-weight: bold;
+    }
+        
+    .paragraph-text {
+        font-family: 'Droid Serif', serif;
+    }
+        
+    .leftItem {
+        width: 35%;
+    }
+
+    .middleItem {
+        width: 26%;
+    }
+
+    .rightItem {
+        width: 35%;
+    }
+    
+    /*<!--Hardware-->*/
+    
+    
